@@ -17,4 +17,4 @@
 >```
 >repo: https://github.com/adityash1/FullStackOpen-Exercises/tree/main/part5
 
-<img src="https://github.com/adityash1/Bloggss/blob/main/Screenrecord.gif" width="1024" height="600" />
+<img src="https://github.com/adityash1/Bloggss/blob/main/Screenrecord.gif" width="960" height="480" />
