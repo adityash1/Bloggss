@@ -1,16 +1,3 @@
-## Getting Started
-
-First,  go to server directory via terminal then :-
-```bash
-npm run dev
-```
-Then go to client directory via terminal then :-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
 #### This project is under development, Bugs!!!
 
 #### This is improved version :-
@@ -29,3 +16,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 >password: password
 >```
 >repo: https://github.com/adityash1/FullStackOpen-Exercises/tree/main/part5
+
+<img src="https://github.com/adityash1/Bloggss/blob/main/Screenrecord.gif" width="1024" height="600" />
