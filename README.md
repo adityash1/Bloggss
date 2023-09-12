@@ -1,4 +1,4 @@
-#### This project is under development, Bugs!!!
+#### This project is under development!!!
 
 #### This is improved version :-
 - React-router
